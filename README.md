@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# 박웅서 201740214
+# Movie_App_2020
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Js FundMentals Course 2020
 
-## Available Scripts
+## 10/16
+1. state와 props의 차이점 state는 동적 데이터를 다룰때 사용하고 props는 동적 데이터를 다루지 못한다. 
+2. count state 다루기
+3. axios..
+## 10/07
+prop-types로 rating 매기기
+상태 관리 함수(setstate) 이용법
 
-In the project directory, you can run:
+## 0925
+1. 효율적으로 컴포넌트를 출력하는 방법(배열을 통해 map 함수를 사용해서 props에 넘겨준다)
+2. 이미지 넣기(src에 image 폴더를 생성하고 삽입하고 싶은 이미지를 폴더에 저장한 후 앞서 말한거처럼 props에 넘겨주는 식으로 한다.) ,import로 이미지를 가져오는 법과 require로 가져오는 법
+3. 리액트 원소들은 유일해야 한다. 유일성이 없어진다면 key prop을 가지자.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 09/18
+1. 컴포넌트가 무엇인지 알아보고 jsx를 학습.
+2. jsx는 단지 html과 자바스크립트를 조합한 문법이다.
+3. jsx를 이용해서 컴포넌트를 작성했다.
+4. 컴포넌트의 이름은 대문자로 시작해야 한다.
+5. 컴포넌트에 데이터를 전달할 때는 props를 사용한다.
+6. 점 연산자를 대신해서 es6의 구조 분해 할당을 사용할 수 있다.
+7. 리액트는 다수의 컴포넌트로 이루어지나, 최종적으로 하나의 컴포넌트만 사용한다.
+8. 상대경로와 절대경로
+## 09/11
+>1. Dothome index 파일 수정
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+>2. readme.md 수정 후 Github에 push하기.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* 9월 16까지.
