@@ -2,7 +2,11 @@
 # Movie_App_2020
 
 React Js FundMentals Course 2020
+## 10/30
+1. propTypes를 이용한 영화 앱 기본 만들기
 
+##
+test
 ## 10/16
 1. state와 props의 차이점 state는 동적 데이터를 다룰때 사용하고 props는 동적 데이터를 다루지 못한다. 
 2. count state 다루기
