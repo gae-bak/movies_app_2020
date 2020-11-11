@@ -1,7 +1,8 @@
 # 박웅서 201740214
 # Movie_App_2020
+## 11/6
+1. axios를 이용한 영화 포스터 사이트 만들기 
 
-React Js FundMentals Course 2020
 ## 10/30
 1. propTypes를 이용한 영화 앱 기본 만들기
 
